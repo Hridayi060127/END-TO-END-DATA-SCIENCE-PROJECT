@@ -31,3 +31,15 @@ This project has significant practical applications in industries such as teleco
 
 
 #OUTPUT
+
+*MODEL TRAINING OUTPUT*
+<img width="1918" height="1013" alt="Image" src="https://github.com/user-attachments/assets/b9e2b6a7-0e50-4070-aba3-bfd24e46c3fd" />
+
+*API RUNNING TERMINAL*
+<img width="1385" height="638" alt="Image" src="https://github.com/user-attachments/assets/d0c42716-089c-4248-9af8-0cff33b9ab92" />
+
+*SWAGGER DOCS PAGE*
+<img width="1907" height="921" alt="Image" src="https://github.com/user-attachments/assets/6e46a03a-e87d-4fca-a498-1c4d28eed16e" />
+
+*PREDICTION OUTPUT*
+<img width="1890" height="981" alt="Image" src="https://github.com/user-attachments/assets/5ba9a42e-6c5f-4fd7-bce3-25ddce05eb96" />
